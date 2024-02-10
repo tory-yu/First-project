@@ -1,0 +1,23 @@
+Data science is the practice of using computational methods to derive valuable and actionable insights from raw datasets. To practice data science, in the true meaning of the term, you need the analytical know-how of math and statistics, the coding skills necessary to work 
+with data, and an area of subject-matter expertise
+
+Four characteristics (the four Vs) define big data: volume, velocity, variety, 
+and value
+
+Descriptive analytics: This type of analytics answers the question, 
+“What happened?” Descriptive analytics are based on historical and current data. A business analyst or a business-centric data scientist bases 
+modern-day business intelligence on descriptive analytics.
+Diagnostic analytics: You use this type of analytics to find answers to 
+the question, “why did this particular something happen?” or “what 
+went wrong?” Diagnostic analytics are useful for deducing and inferring 
+the success or failure of sub-components of any data-driven initiative.
+Predictive analytics: Although this type of analytics is based on historical and current data, predictive analytics go one step further than 
+descriptive analytics. Predictive analytics involve complex modelbuilding and analysis in order to predict a future event or trend. In a 
+business context, these analyses would be performed by the businesscentric data scientist.
+Prescriptive analytics: This type of analytics aims to optimize processes, structures, and systems through informed action that’s based on 
+predictive analytics — essentially telling you what you should do based 
+on an informed estimation of what will happen. Both business analysts 
+and business-centric data scientists can generate prescriptive analytics, 
+but their methods and data sources differ
+
+
